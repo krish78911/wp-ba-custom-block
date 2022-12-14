@@ -1,0 +1,17 @@
+.cta-container {
+    border: 1px solid rgb(214, 214, 214);
+    padding: 10px;
+}
+.cta-container select {
+    width: 100%;
+}
+.cta-container h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.cta-container .selectIcon-admin, .cta-container .selectTitle-admin, .cta-container .selectContent-admin {
+    border: 1px solid rgb(214, 214, 214);
+    background-color: white;
+    margin-bottom: 2px;
+    padding: 10px;
+}
